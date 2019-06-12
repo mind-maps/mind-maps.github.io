@@ -1,2 +1,2 @@
 # Mind maps
-- [Software](https://mind-maps.github.io/software)
+- [Software](https://mind-maps.github.io/software/)
