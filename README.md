@@ -1,2 +1,2 @@
-# mind-maps.github.io
-Hosting site for mind maps
+# Mind maps
+- [Software](https://mind-maps.github.io/software)
